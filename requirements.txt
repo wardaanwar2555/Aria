@@ -1,0 +1,4 @@
+livekit-agents[groq,silero,deepgram]>=1.2
+python-dotenv
+livekit-api
+flask
