@@ -13,7 +13,7 @@ Built with **LiveKit** (real-time audio), **Groq** (speech-to-text and the AI br
 [▶️ Watch Demo Video](demo.mp4)
 
 # Architecture
-![Admissions Copilot Application Interface](illustration.jpg)
+[Admissions Copilot Application Interface](illustration.jpg)
 ## Features
 
 - Talk to the assistant and hear spoken answers in real time
